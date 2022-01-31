@@ -2,7 +2,7 @@
 title: "TAREA5-PROGRA"
 author: "Jenny Rafael"
 date: "30/1/2022"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
